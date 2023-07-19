@@ -19,8 +19,12 @@ public class AppTest {
 	
 	@Test
 	public void test2() {
-		System.out.print("test 2");
 		Assert.assertEquals("anand","anand");
+		
+	}
+	@Test
+	public void test3() {
+		Assert.assertEquals("anand1","anand");
 		
 	}
 
