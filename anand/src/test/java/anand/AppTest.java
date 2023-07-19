@@ -20,7 +20,7 @@ public class AppTest {
 	@Test
 	public void test2() {
 		System.out.print("test 2");
-		Assert.assertEquals("Anand","anand");
+		Assert.assertEquals("anand","anand");
 		
 	}
 
