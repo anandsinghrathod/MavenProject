@@ -16,5 +16,12 @@ public class AppTest {
 		
 		Assert.assertEquals(expected,actual);
 	}
+	
+	@Test
+	public void test2() {
+		System.out.print("test 2");
+		Assert.assertEquals("Anand","anand");
+		
+	}
 
 }
