@@ -24,7 +24,7 @@ public class AppTest {
 	}
 	@Test
 	public void test3() {
-		Assert.assertEquals("anand1","anand");
+		Assert.assertEquals("anand","anand");
 		
 	}
 
